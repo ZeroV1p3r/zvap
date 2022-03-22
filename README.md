@@ -8,3 +8,5 @@ if it showing to you **==> ERROR: PKGBUILD does not exist.** you have an error i
 enter the name in the first argument without space or .git
 
 Run **zvap** in archlinux or based distros in archlinux like(**garuda, manjaro, ..**)
+
+answer the questions by yes/no
